@@ -20,7 +20,7 @@
 14. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
 15. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 16. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
-17. [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/)
+17. [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
 18. [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 19. [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 20. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)

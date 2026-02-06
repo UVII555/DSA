@@ -1,6 +1,6 @@
 /*
-Problem: First Unique Number
-Source: https://leetcode.com/problems/first-unique-number/
+Problem: Interval List Intersections
+Source: https://leetcode.com/problems/interval-list-intersections/
 Difficulty: (Easy/Medium/Hard)
 
 Approach:
@@ -10,7 +10,7 @@ Time Complexity:
 Space Complexity:
 */
 
-public class FirstUniqueNumber {
+public class IntervalListIntersections {
     public static void main(String[] args) {
         // TODO: implement solution
     }

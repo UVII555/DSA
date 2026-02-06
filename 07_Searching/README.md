@@ -23,7 +23,7 @@
 17. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 18. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 19. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
-20. [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+20. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 ## Notes
 - (add notes, patterns, pitfalls)
