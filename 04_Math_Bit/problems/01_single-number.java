@@ -1,0 +1,17 @@
+/*
+Problem: Single Number
+Source: https://leetcode.com/problems/single-number/
+Difficulty: (Easy/Medium/Hard)
+
+Approach:
+- 
+
+Time Complexity:
+Space Complexity:
+*/
+
+public class SingleNumber {
+    public static void main(String[] args) {
+        // TODO: implement solution
+    }
+}

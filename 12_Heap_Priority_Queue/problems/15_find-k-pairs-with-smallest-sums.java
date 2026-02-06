@@ -1,0 +1,17 @@
+/*
+Problem: Find K Pairs with Smallest Sums
+Source: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+Difficulty: (Easy/Medium/Hard)
+
+Approach:
+- 
+
+Time Complexity:
+Space Complexity:
+*/
+
+public class FindKPairsWithSmallestSums {
+    public static void main(String[] args) {
+        // TODO: implement solution
+    }
+}

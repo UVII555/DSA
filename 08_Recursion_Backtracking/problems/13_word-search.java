@@ -1,0 +1,17 @@
+/*
+Problem: Word Search
+Source: https://leetcode.com/problems/word-search/
+Difficulty: (Easy/Medium/Hard)
+
+Approach:
+- 
+
+Time Complexity:
+Space Complexity:
+*/
+
+public class WordSearch {
+    public static void main(String[] args) {
+        // TODO: implement solution
+    }
+}

@@ -1,0 +1,17 @@
+/*
+Problem: Asteroid Collision
+Source: https://leetcode.com/problems/asteroid-collision/
+Difficulty: (Easy/Medium/Hard)
+
+Approach:
+- 
+
+Time Complexity:
+Space Complexity:
+*/
+
+public class AsteroidCollision {
+    public static void main(String[] args) {
+        // TODO: implement solution
+    }
+}
